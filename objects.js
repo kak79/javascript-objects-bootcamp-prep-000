@@ -1,4 +1,4 @@
 var playlist = {
-  artist
-  song title
+  artistName: "Allison Krause",
+  songTitle: "Whiskey Lulliby",
 }
