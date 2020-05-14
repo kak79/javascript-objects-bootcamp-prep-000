@@ -12,5 +12,5 @@ function removeFromPlaylist(playlist,artist){
 }
 
 function name(object,key)
-  delete[key] = value;
+  delete[key]
   return object
