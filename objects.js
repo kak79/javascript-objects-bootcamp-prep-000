@@ -1,8 +1,8 @@
-var playlist={AllisonKrause:"Whiskey Lulliby"
+var playlist={AllisonKrause:"Whiskey Lulliby"}
 
 
 function updatePlaylist(playlist,artist,song){
-  playlist[artist] = value;
+  playlist[artist] = song;
   return playlist
 }
   
