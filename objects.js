@@ -12,6 +12,3 @@ function removeFromPlaylist(playlist,artist){
   return playlist
 }
 
-function name(object,key)
-  delete[key]
-  return object
