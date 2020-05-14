@@ -2,7 +2,7 @@ var playlist={AllisonKrause:"Whiskey Lulliby"
 
 
 function updatePlaylist(playlist,artist,song){
-  object[key] = value;
+  playlist[key] = value;
   return object
 }
   
